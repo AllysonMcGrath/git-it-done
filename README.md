@@ -19,7 +19,7 @@ Detailed instructions for cloning GitHub repositories can be found [here.](https
 You can see the deployed site [here](https://allysonmcgrath.github.io/git-it-done/).
 When displaying correctly, the website should look like this:
 
-![Site with search bar and and column of returned results](./gititdone.JPEG)
+![Site with search bar and and column of returned results](assets/gititdonesite.JPG)
 
 
 Use standard git commands within this repository.
