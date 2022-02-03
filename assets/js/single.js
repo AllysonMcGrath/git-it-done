@@ -81,5 +81,3 @@ var displayWarning = (repo) => {
 }
 
 getRepoName();
-
-getRepoIssues('facebook/react');
