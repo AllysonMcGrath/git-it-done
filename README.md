@@ -1,4 +1,4 @@
-# Git-It-Done-APIs, JavaScript
+# Git it Done-APIs, JavaScript
 
 ## Description
 
